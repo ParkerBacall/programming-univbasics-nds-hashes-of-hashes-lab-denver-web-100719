@@ -41,7 +41,6 @@ def naming_system
 }
   result
 
-
 end
 
 # Remember:
